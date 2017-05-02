@@ -1,2 +1,0 @@
-# WechatSport
- Hook for WechatSport
